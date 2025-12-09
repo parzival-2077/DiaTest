@@ -1,5 +1,6 @@
 package com.example.diatest.di
 
+import com.example.diatest.ui.MainActivity
 import dagger.Component
 import javax.inject.Singleton
 
@@ -9,6 +10,6 @@ import javax.inject.Singleton
 )
 interface AppComponent {
 
-
+    fun inject(activity: MainActivity)
 
 }
