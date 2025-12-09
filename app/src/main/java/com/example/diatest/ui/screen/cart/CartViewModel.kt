@@ -1,8 +1,11 @@
+package com.example.diatest.ui.screen.cart
+
 import androidx.compose.runtime.mutableStateListOf
 import androidx.lifecycle.ViewModel
 import com.example.diatest.model.CartItem
+import javax.inject.Inject
 
-class CartViewModel : ViewModel() {
+class CartViewModel @Inject constructor() : ViewModel() {
     private val _cartItems = mutableStateListOf<CartItem>()
     val cartItems: List<CartItem> = _cartItems
 
