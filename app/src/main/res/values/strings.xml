@@ -1,18 +1,3 @@
 <resources>
     <string name="app_name">DiaTest</string>
-    <string name="products">Продукты</string>
-    <string name="history">История</string>
-    <string name="cart">Корзина</string>
-    <string name="profile">Профиль</string>
-    <string name="add_product">Добавить продукт</string>
-    <string name="drink">Напитки</string>
-    <string name="milky">Молочные продукты</string>
-    <string name="flour">Мучные продукты</string>
-    <string name="fruit">Фрукты</string>
-    <string name="meat">Мясо и рыбы</string>
-    <string name="vegetables">Овощи</string>
-    <string name="candy">Кондитерские изделия</string>
-    <string name="select_category">Выбеерите категорию</string>
-    <string name="back">Назад</string>
-    <string name="save">Сохранить</string>
 </resources>

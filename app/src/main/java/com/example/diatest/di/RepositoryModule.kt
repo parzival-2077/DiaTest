@@ -1,4 +1,4 @@
-package com.example.data.di
+package com.example.diatest.di
 
 import com.example.data.repository.ProductRepositoryImpl
 import com.example.domain.repository.ProductRepository
